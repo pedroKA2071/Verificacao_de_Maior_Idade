@@ -1,0 +1,8 @@
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Maior_Idade\Verificação de Maior Idade\Verificação de Maior Idade\bin\Debug\Verificação de Maior Idade.exe.config
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Maior_Idade\Verificação de Maior Idade\Verificação de Maior Idade\bin\Debug\Verificação de Maior Idade.exe
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Maior_Idade\Verificação de Maior Idade\Verificação de Maior Idade\bin\Debug\Verificação de Maior Idade.pdb
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Maior_Idade\Verificação de Maior Idade\Verificação de Maior Idade\obj\Debug\Verificação de Maior Idade.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Maior_Idade\Verificação de Maior Idade\Verificação de Maior Idade\obj\Debug\Verificação de Maior Idade.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Maior_Idade\Verificação de Maior Idade\Verificação de Maior Idade\obj\Debug\Verificação de Maior Idade.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Maior_Idade\Verificação de Maior Idade\Verificação de Maior Idade\obj\Debug\Verificação de Maior Idade.exe
+C:\Users\pedro.hgaspar2\source\repos\Verificacao_de_Maior_Idade\Verificação de Maior Idade\Verificação de Maior Idade\obj\Debug\Verificação de Maior Idade.pdb
